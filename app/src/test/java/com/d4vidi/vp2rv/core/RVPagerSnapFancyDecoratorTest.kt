@@ -1,12 +1,11 @@
-package com.d4vidi.vp2rv
+package com.d4vidi.vp2rv.core
 
 import android.content.Context
 import android.content.res.Resources
 import android.graphics.Rect
-import android.support.v7.widget.RecyclerView
 import android.util.DisplayMetrics
 import android.view.View
-import com.d4vidi.vp2rv.core.RVPagerSnapFancyDecorator
+import android.support.v7.widget.RecyclerView
 import org.junit.Before
 import org.junit.Test
 import org.mockito.Mockito.*
